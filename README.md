@@ -9,6 +9,6 @@ au cours de ma première année !
 - Bachelor BDDI - 2020-2023
 <!-- on détaillera plus tard-->
 ## Mes hobbies
-J'aime le chocolat.
+Torturer mes étudiants
 
 ©️ Henri LARGET - 2021
