@@ -8,7 +8,7 @@ au cours de ma première année !
 ## Mes études
 - Bachelor BDDI - 2020-2023
 <!-- on détaillera plus tard-->
-## Mes loisirs
+## Mon loisir
 Torturer mes étudiants et les étudiantes aussi. (sinon c'est pas drôle)
 
 ©️ Henri LARGET - 2021
