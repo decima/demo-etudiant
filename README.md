@@ -11,4 +11,5 @@ au cours de ma première année !
 ## Mon loisir
 Torturer mes étudiants et les étudiantes aussi. (sinon c'est pas drôle)
 
+![](code.jpg)
 ©️ Henri LARGET - 2021
