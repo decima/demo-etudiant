@@ -1,4 +1,4 @@
-# Prénom NOM
+# Prénom: Henri NOM:LARGET
 
 Étudiant en première année BDDI à l'école-by-CCI en partenariat avec les Gobelins Paris,
 Je recherche un stage puis une alternance qui me permettront d'appliquer tout ce que j'ai appris 
